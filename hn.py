@@ -1,3 +1,6 @@
+# script to parse comments from hackernews post on "Ask HN: What do you want to learn in 2017?"
+# url https://news.ycombinator.com/item?id=13255650
+
 from urlparse import urlparse as quote_plus
 
 import requests
